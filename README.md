@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fariz Aditama
-- 👀 I’m interested in Python, Data Analys, Machine Learning
-- 🌱 I’m currently learning Python for Data Analys
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in Javascript, ReactJS, MongoDB and ReactNative
+- 🌱 I’m currently learning ReactJS, ExpressJS, and more for MERN stack
+- 💞️ I’m looking to collaborate on create some website
 - 📫 How to reach me [Instagram](https://www.instagram.com/farizaditamaa/)
 
 <!---
